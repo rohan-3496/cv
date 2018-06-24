@@ -20,7 +20,7 @@ Hello, I am a recent graduate from IIT Bombay looking for quantitative opportuni
 ## Internships
 
 ### Purdue University, USA 
-Utilised machine learning to develop methodology for identifying optimal dosage size with no side effects. Also optmised dose size and timing by modelling oscillatory peaks in cancer cells after dosage.
+Utilised machine learning to develop methodology for identifying optimal dosage size of an anti-cancer drug with no side effects. Also optmised dose size and timing by modelling oscillatory peaks in cancer cells after dosage.
 
 ### Unilever, UK 
 
