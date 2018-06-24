@@ -30,7 +30,7 @@ Automated demand forecast system in Unilever UK and Ireland for products on prom
 ### Microsoft code.fun.do 
 Awarded among top 5 from 53 teams across 15 colleges in India. Developed a Universal Windows App to simulate a dynamic food web with real time interactions for user controls.
 
--  [Featured in article on Microsoft India News Center] (https://news.microsoft.com/en-in/features/daring-to-dream/) 
+-  [Featured in article on Microsoft India News Center](https://news.microsoft.com/en-in/features/daring-to-dream/) 
 
 ### Game Engine
 Programmed a game engine in Python usinng OOP based design patterns to implement team strategy, player positions and responsibilities
