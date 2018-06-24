@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Introduction
+## Introduction
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-# Internships
+## Internships
 
-# Projects
+## Projects
 
-# Leadership Experience
+## Leadership Experience
 
-# Extracurriculars
+## Extracurriculars
