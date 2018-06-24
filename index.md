@@ -19,14 +19,14 @@ Hello, I am a recent graduate from IIT Bombay looking for quantitative opportuni
 
 ## Internships
 
+### Unilever, UK 
+Automated demand forecast system in Unilever UK and Ireland for products on promotions by analysing 2500+ past promotions, delivered 300 bps accuracy improvement and 50% reduction in work hours for 3 teams.
+
 ### Purdue University, USA 
 Utilised machine learning to develop methodology for determining optimal dosage regimen (quantity & timing) of a chemotherapeutic drug to achieve no side effects and maximum efficacy.
 
 - [Slides](/assets/pdf/slides.pdf)
 - [Report](/assets/pdf/report.pdf)
-
-### Unilever, UK 
-Automated demand forecast system in Unilever UK and Ireland for products on promotions by analysing 2500+ past promotions, delivered 300 bps accuracy improvement and 50% reduction in work hours for 3 teams.
 
 ## Projects
 
