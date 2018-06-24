@@ -33,7 +33,7 @@ Awarded among top 5 from 53 teams across 15 colleges in India. Developed a Unive
 -  [Featured in article on Microsoft India News Center](https://news.microsoft.com/en-in/features/daring-to-dream/) 
 
 ### Game Engine
-Programmed a game engine in Python usinng OOP based design patterns to implement team strategy, player positions and responsibilities
+Programmed a game engine in Python usinng OOP based design patterns to implement team strategy, player positions and responsibilities.
 
 ## Leadership Experience
 
