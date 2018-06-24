@@ -8,9 +8,12 @@ Hello, I am a recent graduate from IIT Bombay looking for quantitative opportuni
 
 ## Education
 
+* IIT Bombay, B.Tech. (with Honors) 2018
+* DPS Haridwar, High School 2014
+
 ## Awards 
 
-* Chemical Engineering Department Citation, IT Bombay 
+* Chemical Engineering Department Citation, IIT Bombay 
 * Kishore Vaigyanik Protsahan Yojana 
 * National talent Search Examination
 
