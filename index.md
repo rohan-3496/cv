@@ -4,9 +4,19 @@ layout: default
 
 ## Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hello, I am a recent graduate from IIT Bombay looking for quantitative opportunities in finance. I have worked in machine learning, modelling and predction during my proejcts and intermships. I am currently working with MasterCard Advisors as an Associate Analyst.
+
+## Education
+
+## Awards 
+
+* Chemical Engineering Department Citation, IT Bombay 
+* Kishore Vaigyanik Protsahan Yojana 
+* National talent Search Examination
 
 ## Internships
+
+
 
 ## Projects
 
