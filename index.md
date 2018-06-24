@@ -42,7 +42,7 @@ Programmed a game engine in Python usinng OOP based design patterns to implement
 
 ### Overall Coordinator, AZeotropy 2018 
 
- Single-handedly led 3-tier team of 80+ members executing 50+ events catering to 5000+ students to conduct 12th edition of IIT Bombay's annual Chemical Engieering Symposium. 
+ Single-handedly led 3-tier team of 80+ members executing 50+ events catering to 5000+ students to conduct 12th edition of IIT Bombay's annual Chemical Engineering Symposium. 
 
 ### Marketing Head, AZeotropy 2017
 
