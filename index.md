@@ -20,13 +20,33 @@ Hello, I am a recent graduate from IIT Bombay looking for quantitative opportuni
 ## Internships
 
 ### Purdue University, USA 
-Utilised machine learning to develop methodology for determining optimal dosage regimen (quantity & timing) of a chemotherapeutic drug to achieve no side effects and maximum efficacy
+Utilised machine learning to develop methodology for determining optimal dosage regimen (quantity & timing) of a chemotherapeutic drug to achieve no side effects and maximum efficacy.
 
 ### Unilever, UK 
-Automated demand forecast system in Unilever UK and Ireland for products on promotions by analysing 2500+ past promotions , delivered 300 bps accuracy improvement and 50% reduction in work hours for 3 teams
+Automated demand forecast system in Unilever UK and Ireland for products on promotions by analysing 2500+ past promotions , delivered 300 bps accuracy improvement and 50% reduction in work hours for 3 teams.
 
 ## Projects
 
+### Microsoft code.fun.do 
+Awarded among top 5 from 53 teams across 15 colleges in India. Developed a Universal Windows App to simulate a dynamic food web with real time interactions for user controls.
+
+-  [Featured in article on Microsoft India News Center] (https://news.microsoft.com/en-in/features/daring-to-dream/) 
+
+### Game Engine
+Programmed a game engine in Python usinng OOP based design patterns to implement team strategy, player positions and responsibilities
+
 ## Leadership Experience
 
+### Overall Coordinator, AZeotropy 2018 
+
+ Single-handedly led 3-tier team of 80+ members executing 50+ events catering to 5000+ students to conduct 12th edition of IIT Bombay's annual Chemical Engieering Symposium. 
+
+### Marketing Head, AZeotropy 2017
+
+Part of 3-tier team of 15 core members and 80+ volunteers in charge of execution of symposium. Achieved 18% y-o-y increase and highest budget in 11 years; personally delivered 62% of monetary sponsorship. 
+
 ## Extracurriculars
+
+- Convener, Web & Coding Club: conducted open-source and web development workshops 
+- Attended National University of Singapore computing camp for international high school students 
+- Junior Diploma in Classical Vocal Music from Prayag Sangeet Samiti
