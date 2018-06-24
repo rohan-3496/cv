@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Hello, I am a recent graduate from IIT Bombay looking for quantitative opportunities in finance. I have worked in machine learning, modelling and predction during my projects and internships. I am currently working with MasterCard Advisors as an Associate Analyst.
+Hello, I am a recent graduate from IIT Bombay looking for quantitative opportunities in finance. I have worked in machine learning, modelling and prediction during my projects and internships. I am currently working with MasterCard Advisors as an Associate Analyst.
 
 ## Education
 
@@ -26,7 +26,7 @@ Utilised machine learning to develop methodology for determining optimal dosage 
 - [Report](/assets/pdf/report.pdf)
 
 ### Unilever, UK 
-Automated demand forecast system in Unilever UK and Ireland for products on promotions by analysing 2500+ past promotions , delivered 300 bps accuracy improvement and 50% reduction in work hours for 3 teams.
+Automated demand forecast system in Unilever UK and Ireland for products on promotions by analysing 2500+ past promotions, delivered 300 bps accuracy improvement and 50% reduction in work hours for 3 teams.
 
 ## Projects
 
