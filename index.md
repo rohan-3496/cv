@@ -15,7 +15,7 @@ Hello, I am a recent graduate from IIT Bombay looking for quantitative opportuni
 
 * Chemical Engineering Department Citation, IIT Bombay 
 * Kishore Vaigyanik Protsahan Yojana 
-* National talent Search Examination
+* National Talent Search Examination
 
 ## Internships
 
