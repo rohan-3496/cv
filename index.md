@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Hello, I am a recent graduate from IIT Bombay looking for quantitative opportunities in finance. I have worked in machine learning, modelling and predction during my proejcts and intermships. I am currently working with MasterCard Advisors as an Associate Analyst.
+Hello, I am a recent graduate from IIT Bombay looking for quantitative opportunities in finance. I have worked in machine learning, modelling and predction during my projects and internships. I am currently working with MasterCard Advisors as an Associate Analyst.
 
 ## Education
 
