@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Hello, I am a recent graduate from IIT Bombay. I have worked in machine learning, modelling and prediction during my projects and internships. I am currently working with MasterCard Advisors as an Associate Analyst.
+Hello, I am a management consultant with Mastercard Advisors. I am a recent graduate from IIT Bombay and have worked in machine learning, modelling and prediction during my projects and internships. 
 
 ## Education
 
